@@ -1,0 +1,26 @@
+Primitive datatypes
+- byte (size: 1 byte (8 bits))
+- short (size: 2 bytes (16 bits))
+- int (size: 4 bytes (32 bits))
+- long (size: 8 bytes (64 bits))
+- float (size: 4 bytes (32 bits))
+- double (size: 8 bytes (64 bits))
+- boolean (size: not defined)
+- char (size: 2 bytes (16 bits))
+
+Non-Primitive datatypes
+- String
+- Arrays
+- Classes
+- Interface
+- Object
+
+
+Java is a type language here you have to mention this datatypes everytime when you are declaring a variable.
+
+type casting hierarchy
+    byte -> short -> char -> int -> long -> float -> double
+
+how does java code run?
+source code .java -> compiler -> bytecode .class -> JVM -> machine code
+JVM is a virtual machine which runs bytecode and converts it into machine code.
