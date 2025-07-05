@@ -1,0 +1,14 @@
+// types of operators
+
+Binary operators
++,/,*,-,%
+Unary operators
+++,--
+Assignment operators
+=,+=,-=,*=,/=,%=
+Logical operators
+&&,||,!
+Relational operators
+==,!=,>,<,>=,<=
+Ternary operators
+?:
