@@ -1,0 +1,42 @@
+Conditional Statements
+-> if else
+   if(Conditional){
+      //code
+   } else {
+      //code
+   }
+
+-> else if
+   if(Conditional){
+      //code
+   } else if(Conditional){
+      //code
+   } else {
+      //code
+   }
+
+-> Nested if else
+   if(Conditional){
+      if(Conditional){
+         //code
+      } else {
+        //code   
+      }
+   } else {
+       //code
+   }
+
+-> Switch case
+   switch(variable){
+      case value:
+         //code
+         break;
+      case value:
+         //code
+         break;
+      default:
+         //code
+   }
+
+-> Ternary operator
+   (Condition) ? (if true) : (if false)
